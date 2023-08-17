@@ -24,8 +24,9 @@ if  op1 == 1:
     print("Piedra")
 elif  op1 == 2:
     print("Papel")
-else:
+elif op1 == 3:
     print("Tigera")
+    
 print(player2," - Ingresa tu movimiento")
 op2 = int(input("Elige una opcion <1 - 3>"))
 while op2 <1 or op2>4:
