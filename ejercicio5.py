@@ -1,0 +1,7 @@
+## Ejercicios de ESTADISTA INDIFERENCIAL
+
+
+
+
+
+
